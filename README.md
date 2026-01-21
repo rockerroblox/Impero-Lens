@@ -11,7 +11,7 @@
 
 ## Installation
 
-First, clone the repository with ``git clone https://github.com/rockerroblox/Impero-Lens``, and ``cd`` into the directory. Run ``ImperoView.exe``. Ensure that your Impero is installed at ``C:\Program Files (x86)\Impero Solutions Ltd\Impero Client``
+First, clone the repository with ``git clone https://github.com/rockerroblox/Impero-Lens``, and ``cd`` into the directory. Run ``Imperoviewer.exe``. Ensure that your Impero is installed at ``C:\Program Files (x86)\Impero Solutions Ltd\Impero Client``
 
 Alternatively, download the main branch zip file.
 
